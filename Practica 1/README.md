@@ -1,7 +1,7 @@
 # Modelos Avanzados de Computación
 
 Ejercicios de la **Practica 1**  
-**Miguel Sánchez Maldonado**
+**Miguel Sánchez Maldonado**  
 **Juan Antonio Velasco Gómez**
 
 ## Problema de la Parada
