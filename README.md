@@ -1,4 +1,4 @@
-# MAC
+# Modelos avanzados de computación
 
 Practicas de la asignatura Modelos Avanzados de Computación
 =======
