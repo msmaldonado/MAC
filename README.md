@@ -8,3 +8,7 @@ Practicas de la asignatura Modelos Avanzados de Computación
     + Juan Antonio Velásco Gómez
 
 >**Practica 1**
+    Problema de la Parada
+
+>**Practica 2**
+    Máquinas de Turing
