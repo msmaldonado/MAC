@@ -1,14 +1,14 @@
 # Modelos Avanzados de Computación
-Practica 1
+Practica 2
 ========
 
->**Ejercicios de la Practica 1**
+>**Ejercicios de la Practica 2**
 
 
 + Miguel Sánchez Maldonado
 + Juan Antonio Velasco Gómez
 
-## Problema de la Parada
+##  Máquinas de Turing 
 
 
 - Enunciados de la Practica
