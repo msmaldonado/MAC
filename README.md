@@ -12,5 +12,3 @@ Practicas de la asignatura Modelos Avanzados de Computación
 
 >**Practica 2**
     Máquinas de Turing
-    
-    
