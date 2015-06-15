@@ -15,3 +15,6 @@ Practicas de la asignatura Modelos Avanzados de Computación
 
 >**Practica 3**
     Reducciones
+
+>**Practica 4**
+    Problemas NP
